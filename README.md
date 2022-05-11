@@ -1,0 +1,2 @@
+# empty-new-tab-page
+ 
