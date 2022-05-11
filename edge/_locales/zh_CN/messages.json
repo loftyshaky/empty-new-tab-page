@@ -1,5 +1,8 @@
 {
-  "new_tab_title_text": {
-    "message": "新标签页"
-  }
+    "name": {
+        "message": "Empty New Tab Page"
+    },
+    "new_tab_title_text": {
+        "message": "新标签页"
+    }
 }

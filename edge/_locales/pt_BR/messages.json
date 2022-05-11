@@ -1,4 +1,7 @@
 ﻿{
+    "name": {
+        "message": "Empty New Tab Page"
+    },
     "new_tab_title_text": {
         "message": "Nova guia"
     }
