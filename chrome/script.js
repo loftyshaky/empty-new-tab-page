@@ -10,7 +10,7 @@ const set_title = () => {
 const set_icon = () => {
   const icon_el = document.querySelector(".icon");
   const browser_is_in_dark_mode = dark_mode_media_query.matches;
-  console.log(browser_is_in_dark_mode, 676767);
+
   if (browser_is_in_dark_mode) {
     icon_el.href = "new_tab_dark_mode.png";
   } else {
