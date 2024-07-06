@@ -6,7 +6,7 @@
   "default_locale": "en",
   "offline_enabled": true,
   "icons": {
-    "16": "icon16.png",
+    "16": "new_tab.png",
     "24": "icon24.png",
     "32": "icon32.png",
     "64": "icon64.png",
