@@ -1,11 +1,11 @@
 {
-    "name": {
-        "message": "Empty New Tab Page"
-    },
-    "description": {
-        "message": "Replaces the default new tab page with a blank page."
-    },
-    "new_tab_title_text": {
-        "message": "New Tab"
-    }
+  "name": {
+    "message": "Empty New Tab Page"
+  },
+  "description": {
+    "message": "Replaces the default new tab page with a blank page but doesn't change its favicon."
+  },
+  "new_tab_title_text": {
+    "message": "New Tab"
+  }
 }
