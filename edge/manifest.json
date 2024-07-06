@@ -1,18 +1,18 @@
 {
-    "manifest_version": 3,
-    "version": "0.0.1",
-    "name": "__MSG_name__",
-    "description": "__MSG_description__",
-    "default_locale": "en",
-    "offline_enabled": true,
-    "icons": {
-        "16": "new_tab.png",
-        "24": "icon24.png",
-        "32": "icon32.png",
-        "64": "icon64.png",
-        "128": "icon128.png"
-    },
-    "chrome_url_overrides": {
-        "newtab": "new_tab.html"
-    }
+  "manifest_version": 3,
+  "version": "0.0.1",
+  "name": "__MSG_name__",
+  "description": "__MSG_description__",
+  "default_locale": "en",
+  "offline_enabled": true,
+  "icons": {
+    "16": "icon16.png",
+    "24": "icon24.png",
+    "32": "icon32.png",
+    "64": "icon64.png",
+    "128": "icon128.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "new_tab.html"
+  }
 }
