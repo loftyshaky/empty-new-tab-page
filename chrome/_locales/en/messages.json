@@ -3,7 +3,7 @@
     "message": "Empty New Tab Page"
   },
   "description": {
-    "message": "Replace the default new tab page with a blank page while keeping the default favicon. Supports dark mode."
+    "message": "Replace the default new tab page with a blank page while retaining the default favicon. Supports dark mode."
   },
   "new_tab_title_text": {
     "message": "New Tab"
