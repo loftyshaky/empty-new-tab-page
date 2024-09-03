@@ -1,4 +1,4 @@
-A browser extension that replaces the default new tab page with a blank page but doesn't change its favicon.
+A browser extension that enables you to replace the default new tab page with a blank page while retaining the default favicon. Supports dark mode.
 
 ## Links
 
