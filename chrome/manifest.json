@@ -6,13 +6,14 @@
   "default_locale": "en",
   "offline_enabled": true,
   "icons": {
-    "16": "new_tab.png",
-    "32": "icon32.png",
-    "48": "icon48.png",
-    "64": "icon64.png",
-    "128": "icon128.png"
+    "16": "icons/icon_light16.png",
+    "24": "icons/icon_light24.png",
+    "32": "icons/icon_light32.png",
+    "48": "icons/icon_light48.png",
+    "64": "icons/icon_light64.png",
+    "128": "icons/icon_light128.png"
   },
   "chrome_url_overrides": {
-    "newtab": "new_tab.html"
+    "newtab": "html/new_tab.html"
   }
 }
