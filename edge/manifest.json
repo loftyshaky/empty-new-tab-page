@@ -11,6 +11,7 @@
     "32": "icons/icon_light32.png",
     "48": "icons/icon_light48.png",
     "64": "icons/icon_light64.png",
+    "96": "icons/icon_light96.png",
     "128": "icons/icon_light128.png"
   },
   "chrome_url_overrides": {
